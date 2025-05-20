@@ -1,1 +1,1 @@
-print("hello git")
+print("welcome to the git learning")
